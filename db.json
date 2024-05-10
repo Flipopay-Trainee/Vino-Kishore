@@ -1,0 +1,80 @@
+{
+  "logins": [
+    {
+      "user Name": "boss",
+      "Email": "raj@gmail.com",
+      "Password": "password",
+      "confirm Password": "password"
+    },
+    {
+      "id": "25b8",
+      "name": "prakash",
+      "email": "prakash007@gmail.com",
+      "password": "123456",
+      "confirm": "123456"
+    },
+    {
+      "id": "7790",
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "password": "111111",
+      "confirm": "111111"
+    },
+    {
+      "id": "be72",
+      "name": "vino",
+      "email": "vino@gmail.com",
+      "password": "11111111",
+      "confirm": "11111111"
+    },
+    {
+      "id": "98ab",
+      "name": "karthi",
+      "email": "karthi123@gmail.com",
+      "password": "22222222",
+      "confirm": "22222222"
+    },
+    {
+      "id": "7467",
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "password": "1111",
+      "confirm": "22222"
+    },
+    {
+      "id": "1edf",
+      "name": "Demo",
+      "email": "demo@gmail.com",
+      "password": "1111111",
+      "confirm": "1111111"
+    },
+    {
+      "id": "2d3c",
+      "name": "sabari",
+      "email": "sabari@gmail.com",
+      "password": "1111",
+      "confirm": "1111"
+    },
+    {
+      "id": "36e6",
+      "name": "name",
+      "email": "name@gmail.com",
+      "password": "66666666",
+      "confirm": "66666666"
+    },
+    {
+      "id": "f863",
+      "name": "hai",
+      "email": "hai@gmail.com",
+      "password": "222222",
+      "confirm": "222222"
+    },
+    {
+      "id": "c152",
+      "name": "seeman",
+      "email": "seeman@gmail.com",
+      "password": "1111",
+      "confirm": "1111"
+    }
+  ]
+}
