@@ -4,7 +4,8 @@
       "user Name": "boss",
       "Email": "raj@gmail.com",
       "Password": "password",
-      "confirm Password": "password"
+      "confirm Password": "password",
+      "id": "2a6a"
     },
     {
       "id": "25b8",
@@ -75,6 +76,13 @@
       "email": "seeman@gmail.com",
       "password": "1111",
       "confirm": "1111"
+    },
+    {
+      "id": "1e86",
+      "name": "prakash",
+      "email": "prakash@gmail.com",
+      "password": "0000",
+      "confirm": "0000"
     }
   ]
 }

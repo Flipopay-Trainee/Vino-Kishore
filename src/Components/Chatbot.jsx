@@ -45,7 +45,7 @@ function Chatbot() {
             addBotMessage("ithu varaikum nalla irunthen inni epdinu therila");
             break;
           case "what is your name":
-            addBotMessage("My name is  jose bot.");
+            addBotMessage("My name is  Rolex.");
             break;
           case "hi":
             addBotMessage("Vanakam da mapla.");
