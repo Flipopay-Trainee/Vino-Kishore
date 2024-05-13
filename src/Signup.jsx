@@ -27,6 +27,7 @@ export default function Signup() {
   return (
     <div>
       <div>
+        
         <div className="Signup-container">
           <h2>Sign up</h2>
           <form className="Signup-form" onSubmit={handleSubmit}>
