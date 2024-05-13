@@ -83,6 +83,13 @@
       "email": "prakash@gmail.com",
       "password": "0000",
       "confirm": "0000"
+    },
+    {
+      "id": "20ac",
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "password": "1111",
+      "confirm": "1111"
     }
   ]
 }
